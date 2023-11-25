@@ -1,2 +1,2 @@
 # FFmpeg
-FFmpeg+QT
+FFmpeg+QT的学习demo
